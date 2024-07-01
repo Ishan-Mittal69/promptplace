@@ -1,4 +1,3 @@
-//we dont need to import reacct in next js
 import Feed from "@components/Feed"; 
 
 function Home() {
@@ -9,7 +8,7 @@ function Home() {
       </h2 >
       <h1 className="orange_gradient text-7xl text-center max-md:text-6xl max-sm:text-5xl"> AI-Powered Prompts</h1>
        
-      <p className="desc text-center">PromptPlace is a place as its name suggest for prompts where you can discover, create , share and test prompts!</p>
+      <p className="desc text-center">PromptPlace is a place for prompts where you can discover, create and share creative prompts!</p>
 
       <Feed/> 
     </section>

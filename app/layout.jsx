@@ -5,7 +5,7 @@
 
  export const metadata={
   title: "PromptPlace",
-  description: "Discover share and test AI prompts! "
+  description: "Discover, create and share AI prompts! "
  }
 
  

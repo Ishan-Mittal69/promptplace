@@ -12,7 +12,7 @@ function Form({type, post, setPost, submitting,handleSubmit}) {
       </h1>
 
       <p className="desc text-left max-w-md">
-        {type}, share and test amazing prompts with the world, and let your imagination run wild with AI-powered platform.
+      Unleash your creativity, let your imagination soar!
       </p>
 
       <form onSubmit={handleSubmit} className="mt-10 w-full max-w-2xl flex flex-col gap-7 glassmorphism">
